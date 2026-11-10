@@ -1,0 +1,35 @@
+# Carpetas que Unity regenera solo (las más pesadas)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+/[Oo]bj/
+/UserSettings/
+/[Mm]emoryCaptures/
+
+# Builds (el .exe va a Drive, no a Git)
+/[Bb]uild/
+/[Bb]uilds/
+
+# Archivos de Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Archivos generados por Unity
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
