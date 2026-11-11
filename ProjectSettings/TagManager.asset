@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Heroe
+  - Enemy
   layers:
   - Default
   - TransparentFX
